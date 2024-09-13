@@ -31,12 +31,19 @@ Welcome to the classic **2048 Game** built using **HTML**, **CSS**, and **JavaSc
 
 Run the Game
 Simply open the index.html file in your favorite browser. 🌐
+
 2048/
+
 │
+
 ├── index.html     # Main HTML file
+
 ├── style.css      # CSS styles
+
 ├── script.js      # JavaScript logic
+
 └── README.md      # Project documentation
+
 🛠 Technologies Used
 HTML5 📄
 CSS3 🎨
