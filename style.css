@@ -1,0 +1,118 @@
+
+body {
+    text-align: center;
+    background-color: black;
+    cursor: pointer;
+    user-select: none;
+}
+hr{
+    width: 550px;
+    color: blanchedalmond;
+}
+h1{
+    color: azure;
+    font-size: 40px;
+}
+h2 {
+    color: azure;
+    text-shadow: 0px 0px 10px rgba(255, 255, 255, 0.5);
+}
+#board {
+    width: 400px;
+    height: 400px;
+    background-color: blanchedalmond ;
+    border: 6px solid azure;
+    box-shadow: 0 0 40px bisque;
+    margin: 0 auto;
+    border-radius: 30px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.tile{
+    width: 90px;
+    height: 90px;
+    border: 5px solid azure;
+    font-size: 40px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+.x2{
+    background: linear-gradient(to right, #FFD3A5, #FD6585);
+    color: #333; 
+    text-shadow: 0px 0px 1px black;
+    font-weight: light;
+}
+.x4{
+    background: linear-gradient(to right, #D7BDE2, #5D6D7E);
+    color: #333; 
+    text-shadow: 0px 0px 1px black;
+    font-weight: light;
+}
+.x8{
+    background: linear-gradient(to right, #A1FFCE, #FAFFD1);
+    color: #333; 
+    text-shadow: 0px 0px 1px black;
+    font-weight: light;
+}
+.x16{
+    background: linear-gradient(to right, #F1C4F4, #f385ac);
+    color: #333; 
+    text-shadow: 0px 0px 1px black;
+    font-weight: light;
+}
+.x32{
+    background: linear-gradient(to right, #AEDFF2, #DBF6E9);
+    color: #333; 
+    text-shadow: 0px 0px 1px black;
+    font-weight: light;
+}
+.x64{
+    background: linear-gradient(to right, #FDC7E5, #AEE1E1);
+    color: #333; 
+    text-shadow: 0px 0px 1px black;
+    font-weight: light;
+}
+.x128{
+    background: linear-gradient(to right, #FFDDC1, #FFA69E);
+    color: #333; 
+    text-shadow: 0px 0px 1px black;
+    font-weight: light;
+}
+.x256{
+    background: linear-gradient(to right, #8EF6E4, #5CB3FF);
+    color: #333; 
+    text-shadow: 0px 0px 1px black;
+    font-weight: light;
+}
+.x512{
+    background: linear-gradient(to right, #FFD700, #F4A460);
+    color: #333; 
+    text-shadow: 0px 0px 1px black;
+    font-weight: light;
+}
+.x1024{
+    background: linear-gradient(to right, #C8A2C8, #EEE8AA);
+    color: #333; 
+    text-shadow: 0px 0px 1px black;
+    font-weight: light;
+}
+.x2048{
+    background: linear-gradient(to right, #AFEEEE, #77B5FE);
+    color: #333; 
+    text-shadow: 0px 0px 1px black;
+    font-weight: light;
+}
+.x4096{
+    background: linear-gradient(to right, #FFD3A5, #FFAAA6);
+    color: #333; 
+    text-shadow: 0px 0px 1px black;
+    font-weight: light;
+}
+.x8192{
+    color: #333; 
+    text-shadow: 0px 0px 1px black;
+    font-weight: light;
+}
