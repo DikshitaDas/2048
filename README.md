@@ -2,7 +2,7 @@
 
 Welcome to the classic **2048 Game** built using **HTML**, **CSS**, and **JavaScript**! 🚀 Test your logic and number-crunching skills in this addictive puzzle game. Try to reach the 2048 tile! 🎯
 
-![Game Screenshot](path/to/screenshot.png)
+<img src="https://github.com/DikshitaDas/2048/blob/main/game%20board/Screenshot%202024-10-19%20120018.png" width="800" >
 
 ## 📝 Table of Contents
 - [🌟 Features](#-features)
